@@ -186,6 +186,7 @@ body {
 
 header {
   position: relative;
+  margin: auto 0;
   padding: 35px 0;
   z-index: 2;
 }
@@ -256,6 +257,13 @@ header .container {
   padding: 130px 0 140px;
   z-index: 1;
 }
+
+.hero-ar {
+  position: relative;
+  padding: 130px 0 140px;
+  z-index: 1;
+}
+
 
 .hero-content { text-align: center; }
 
